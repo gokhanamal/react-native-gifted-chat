@@ -103,7 +103,7 @@
   "peerDependencies": {
     "prop-types": "*",
     "react": "*",
-    "react-native": "*",
+    "react-native": "*"
   },
   "husky": {
     "hooks": {
